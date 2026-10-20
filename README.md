@@ -2,7 +2,7 @@
 
 Страница с восемью карточками об этапах обучения вёрстке. Учебный проект пятого спринта Яндекс Практикума.
 
-[Репозиторий проекта](https://github.com/Saakoz14/zakrivayuschiy-teg)
+[Открыть сайт](https://saakoz14.github.io/zakrivayuschiy-teg/) · [Репозиторий проекта](https://github.com/Saakoz14/zakrivayuschiy-teg)
 
 ## Превью сайта
 
