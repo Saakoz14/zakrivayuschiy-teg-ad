@@ -19,3 +19,5 @@
 ## Технологии
 
 HTML5, CSS3, JavaScript, Flexbox, Grid Layout, CSS-переменные, медиазапросы и SVG. Локальные шрифты Inter и Press Start 2P.
+
+[Ссылка для проверки в Яндекс Практикуме](https://github.com/Saakoz14/zakrivayuschiy-teg-ad) — исходный адрес репозитория; GitHub перенаправляет его на актуальное название.
